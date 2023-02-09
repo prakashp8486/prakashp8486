@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/prakash-pacharne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakash-pacharne/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16834798/learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16834798/learner" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/prakashpacharne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prakashpacharne" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prakash_machine_learning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prakash_machine_learning" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChMXBGaK5DRd-oCGRAJc7Gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prakash_machine_learning" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
