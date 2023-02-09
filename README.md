@@ -25,9 +25,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prakashpacharn2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakashpacharn2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prakash-pacharne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakash-pacharne/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16834798/learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16834798/learner" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/prakashpacharne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prakashpacharne" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakash-pacharne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakash-pacharne/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16834798/learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16834798/learner" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/prakashpacharne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prakashpacharne" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/prakash_machine_learning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prakash_machine_learning" height="30" width="40" /></a>
 </p>
 
