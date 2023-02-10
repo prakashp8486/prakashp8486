@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/prakashpacharn2" target="blank"><img src="https://img.shields.io/twitter/follow/prakashpacharn2?logo=twitter&style=for-the-badge" alt="prakashpacharn2" /></a> </p>
 
-- 🔭 I’m currently working on [Sentiment Analysis](https://github.com/prakashp8486/prakashp8486)
+- 🔭 I’m currently working on [Object Detection](https://github.com/prakashp8486/prakashp8486)
 
 - 🌱 I’m currently learning **MLops**
 
