@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/prakashpacharn2" target="blank"><img src="https://img.shields.io/twitter/follow/prakashpacharn2?logo=twitter&style=for-the-badge" alt="prakashpacharn2" /></a> </p>
 
-- 🔭 I’m currently working on [Object Detection](https://github.com/prakashp8486/prakashp8486)
+- 🔭 I’m currently working on [Rest API's](https://github.com/prakashp8486/prakashp8486)
 
 - 🌱 I’m currently learning **MLops**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **prakashp8486@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q53NxOWBqu7o7T-HQxdlad_qd5P4XoJD/view?usp=share_link](https://drive.google.com/file/d/1q4qeZZ8WoajT0-7wkZGOFZwQPJJtS9wX/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q53NxOWBqu7o7T-HQxdlad_qd5P4XoJD/view?usp=share_link](https://drive.google.com/file/d/1q53NxOWBqu7o7T-HQxdlad_qd5P4XoJD/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
