@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **prakashp8486@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q53NxOWBqu7o7T-HQxdlad_qd5P4XoJD/view?usp=share_link](https://drive.google.com/file/d/1q53NxOWBqu7o7T-HQxdlad_qd5P4XoJD/view?usp=share_link)
+- 📄 Know about my experiences [https://ckk.ai/cbo9c](https://ckk.ai/cbo9c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
