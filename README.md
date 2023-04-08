@@ -2,25 +2,11 @@
 <h1 align="center">Hi 👋, I'm Prakash Pacharne</h1>
 <h3 align="center">A passionate AI enthusiast from Ahmadnagar, Maharashtra</h3>
 
-<img align='right' alt='coding' width='400' src='https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966'>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashp8486&label=Profile%20views&color=0e75b6&style=flat" alt="prakashp8486" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashp8486" alt="prakashp8486" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/prakashpacharn2" target="blank"><img src="https://img.shields.io/twitter/follow/prakashpacharn2?logo=twitter&style=for-the-badge" alt="prakashpacharn2" /></a> </p>
-
-- 🔭 I’m currently working on [Rest API's](https://github.com/prakashp8486/prakashp8486)
-
-- 🌱 I’m currently learning **MLops**
-
-- 👨‍💻 All of my projects are available at [https://github.com/prakashp8486/prakashp8486](https://github.com/prakashp8486/prakashp8486)
-
-- 💬 Ask me about **Artificial Interlligence**
-
-- 📫 How to reach me **prakashp8486@gmail.com**
-
-- 📄 Know about my experiences [https://ckk.ai/cbo9c](https://ckk.ai/cbo9c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
