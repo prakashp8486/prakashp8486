@@ -1,4 +1,4 @@
-![logo](https://github.com/prakashp8486/prakashp8486/blob/main/My%20project-1.png)
+
 <h1 align="center">Hi 👋, I'm Prakash Pacharne</h1>
 <h3 align="center">A passionate AI enthusiast from Ahmadnagar, Maharashtra</h3>
 
